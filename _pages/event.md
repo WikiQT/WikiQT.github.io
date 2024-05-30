@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Event
-permalink: /event/
+title: Progress
+permalink: /progress/
 ---
 
 ### Upcoming Events
